@@ -92,3 +92,6 @@
 .borde {
 	border: thick solid #0000FF;
 }
+.margen {
+	padding-left: 30px;
+}
