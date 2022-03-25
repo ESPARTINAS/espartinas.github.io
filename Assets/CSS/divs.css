@@ -44,7 +44,7 @@
 
 	float: right;
 
-	width: 22%;
+	width: 32%;
 
 	margin-left: 1%;
 
@@ -73,9 +73,21 @@
 
 	float: left;
 
+	width: 60%;
+
+}
+#col3{
+
+	float: left;
+
+	width: 50%;
+
+}
+
 	width: 100%;
 
 }
+
 
 /************************************/
 
@@ -89,9 +101,20 @@
 	font-family: Arial, Helvetica, sans-serif;
 	background-color: #666666;
 }
-.borde {
-	border: thick solid #0000FF;
-}
-.margen {
-	padding-left: 30px;
+#col4 {
+
+
+	float: right;
+
+	width: 46%;
+
+	margin-left: 1%;
+
+	padding: 1%;
+
+	background-color: #EEEEEE;
+
+	border-left: 1px solid #CCCCCC;
+
+	border-bottom: 1px solid #CCCCCC;
 }
