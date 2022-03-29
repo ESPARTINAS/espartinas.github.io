@@ -118,3 +118,58 @@
 
 	border-bottom: 1px solid #CCCCCC;
 }
+#col5 {
+
+
+	float: left;
+
+	width: 50%;
+}
+#col6 {
+
+
+	float: right;
+
+	width: 46%;
+
+	margin-left: 1%;
+
+	padding: 1%;
+
+	background-color: #EEEEEE;
+
+	border-left: 1px solid #CCCCCC;
+
+	border-bottom: 1px solid #CCCCCC;
+}
+.Resaltar {
+	font-size: large;
+	font-weight: bold;
+}
+.a {
+	vertical-align: baseline;
+}
+#col7 {
+
+
+	float: left;
+
+	width: 40%;
+}
+#col8 {
+
+
+	float: right;
+
+	width: 56%;
+
+	margin-left: 1%;
+
+	padding: 1%;
+
+	background-color: #EEEEEE;
+
+	border-left: 1px solid #CCCCCC;
+
+	border-bottom: 1px solid #CCCCCC;
+}
